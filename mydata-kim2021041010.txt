@@ -1,0 +1,5 @@
+name : kimgunwoo
+student ID : 2021041010
+major : software
+grade : 1
+class : opensw
